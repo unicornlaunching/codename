@@ -40,11 +40,9 @@
 	}
 
 	body {
-	margin: 0px;
-	width: 100%;
-    	height: 100%;
-    	padding: 0px;
-    	overflow-x: hidden; 
+	  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
 	}
 	article,
 	aside,
